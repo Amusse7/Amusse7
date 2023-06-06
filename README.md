@@ -60,9 +60,6 @@ Check out my portfolio by clicking [here!](https://www.amusse.ca/)
 </div>
      
 ---
-   ![Snake animation](https://github.com/Amusse7/Amuss7/blob/output/github-contribution-grid-snake.svg)
-
-
 ## 👊 Lets connect!
 - [LinkedIn](https://www.linkedin.com/in/abdulkadir-musse/)
 - [Twitter](https://twitter.com/abdulcodes)
