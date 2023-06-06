@@ -1,6 +1,6 @@
  # 👋 Hi, I’m [Abdulkadir Musse](https://www.linkedin.com/in/abdulkadir-musse/)
 
-<p>I am located in Toronto, Ontario. I am a software engineer with a background in the airline industry. I am currently a computer science student looking to make my mark in the tech industry. My journey is a bit different where I started learning to code during the COVID-19 pandemic because I enjoy problem solving and had loads of free time this lead me to pursue a career in computer science.</p>
+<p>I currently reside in Toronto, Ontario. I am a Software Engineer with a background in the airline industry. I am currently a computer science student looking to make my mark in the tech industry. My journey is a bit different where I started learning to code during the COVID-19 pandemic because I enjoy problem solving and had loads of free time this lead me to pursue a career in computer science.</p>
 
 Check out my portfolio by clicking [here!](https://www.amusse.ca/)
 
@@ -29,6 +29,7 @@ Check out my portfolio by clicking [here!](https://www.amusse.ca/)
 <a href="https://www.npmjs.com/" target="__blank"> <img alt="Npm badge" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/> </a>
 <a href="https://www.mongodb.com/" target="__blank"> <img alt="MongoDB badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
  <a href="https://getbootstrap.com/" target="__blank"> <img alt="bootstrap badge" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>
+    <a href="https://jestjs.io/" target="__blank"> <img alt="Jest badge" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/> </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="__blank"> <img alt="C# badge" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> </a>
     <a href="https://dotnet.microsoft.com/en-us/" target="__blank"> <img alt=".NET badge" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> </a>
   <a href="https://www.java.com/en/" target="__blank"> <img alt="Java badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> </a>
@@ -48,7 +49,6 @@ Check out my portfolio by clicking [here!](https://www.amusse.ca/)
    <a href="https://www.djangoproject.com/" target="__blank"> <img alt="django badge" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> </a>
    <a href="https://www.typescriptlang.org/" target="__blank"> <img alt="TypeScript badge" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a>
    <a href="https://flask.palletsprojects.com/en/2.3.x/" target="__blank"> <img alt="flask badge" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/> </a>
-   <a href="https://jestjs.io/" target="__blank"> <img alt="Jest badge" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/> </a>
    <br/>
 </p>
   
