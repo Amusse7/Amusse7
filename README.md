@@ -2,7 +2,7 @@
 
 <p>I currently reside in Toronto, Ontario. I am a Software Engineer with a background in the airline industry. I am currently a CS student looking to make my mark in the tech industry. My journey is a bit different I started learning to code during the COVID-19 pandemic because I enjoy problem solving and had loads of free time this lead me to pursue a career in Software Engineering.</p>
 
-Check out my portfolio by clicking [here!](https://www.amusse.ca/)
+<>Check out my portfolio by clicking [here!](https://www.amusse.ca/)***
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
