@@ -12,7 +12,6 @@
 </p>
 
 ---
----
 
 <h3 align="center">Currently Using:</h3>
 <p align="center"> 
