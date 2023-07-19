@@ -3,7 +3,6 @@
 <p>I currently reside in Toronto, Ontario. I am a Software Engineer with a background in the airline industry. I am currently a CS student looking to make my mark in the tech industry. My journey is a bit different I started learning to code during the COVID-19 pandemic because I enjoy problem solving and had loads of free time this lead me to pursue a career in Software Engineering.</p>
 
 
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://github.com/Amusse7" target="__blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Amusse7"/></a>
