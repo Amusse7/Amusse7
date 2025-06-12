@@ -3,7 +3,7 @@
 <a href="https://twitter.com/intent/follow?screen_name=abdulcodes&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/abdulcodes?label=%40abdulcodes&style=social"></a>
 
 👋🏽 I'm Abdulkadir!<br />
-👨🏽‍💻 I'm currently a Software Engineering Technology Student @ <a href="https://www.centennialcollege.ca/programs-courses/full-time/software-engineering-technology-online" target="_blank">Centennial College</a>.<br />
+<!-- 👨🏽‍💻 I'm currently a Software Engineering Technology Student @ <a href="https://www.centennialcollege.ca/programs-courses/full-time/software-engineering-technology-online" target="_blank">Centennial College</a>.<br /> -->
 🔥 I hope to one day make my mark in the tech industry.<br />
 
 
